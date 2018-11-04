@@ -1,0 +1,7 @@
+Observations
+
+1. The temperature gets warmer as the equator is approached.
+
+2. The temperature gets significantly colder as the north pole is approched.
+
+3. There is not a strong releationship between latitude and humidity.  
